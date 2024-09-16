@@ -1,5 +1,5 @@
 class Worker:
-    def __init__(self, surname, status, money) -> None:
+    def __init__(self, surname, status, money):
         self.surname = surname
         self.status = status
         self.money = money
