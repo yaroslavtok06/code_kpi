@@ -1,5 +1,3 @@
-# sensor.py  
-
 class Sensor:  
     def __init__(self, sensor_id, location):   
         self.sensor_id = sensor_id 
